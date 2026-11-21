@@ -86,7 +86,8 @@ An interactive Power BI dashboard that analyzes crop production in India from **
 4. If prompted, point the data source to `Agricultural_dataset.xlsx`
 5. Use the slicers to explore by year, state, crop, and season
 
+
 ## 👤 Author
 
 **Shobana C**
-[GitHub](https://github.com/shobanachandran24-lab) · [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/shobanachandran24-lab) · [LinkedIn](https://www.linkedin.com/in/shobanachandran2402/)
